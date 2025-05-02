@@ -1,0 +1,75 @@
+.imgLogo {
+    width: 75px;
+    height: 22px;
+}
+
+.colorFondo {
+    background-color: #18851d;
+}
+
+.colorLetra {
+    color: #ffffff !important;
+}
+
+.colorGeneral {
+    color: #18851d;
+}
+
+.imgGrid {
+    width: 250px;
+    height: 200px;
+}
+
+.tamannoGrid {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.roboto-ligth {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+      color: #aaa;
+    font-size: 12px;
+}
+
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    font-size: 16px;
+}
+
+.imgGPS {
+    width: 15px;
+    height: 10px;
+}
+
+.disennoDiv {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.footer {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.info {
+    display: flex;
+    align-items: center;
+}
+
+.otro {
+    display: flex;
+    display: inline
+}
+
